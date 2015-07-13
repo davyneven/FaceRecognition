@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<images>
+  training_Images/0.jpg training_Images/1.jpg training_Images/2.jpg
+  training_Images/3.jpg training_Images/4.jpg training_Images/5.jpg
+  training_Images/6.jpg training_Images/7.jpg training_Images/8.jpg
+  training_Images/9.jpg training_Images/10.jpg training_Images/11.jpg
+  training_Images/12.jpg training_Images/13.jpg training_Images/14.jpg
+  training_Images/15.jpg</images>
+<profile_images>
+  profileImages/0.jpg</profile_images>
+<labels>
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</labels>
+<numPersons>1</numPersons>
+<faces>
+  14</faces>
+</opencv_storage>

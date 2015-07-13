@@ -1,0 +1,2 @@
+/home/davy/FaceRecognition/build/dlib_build/CMakeFiles/dlib.dir
+/home/davy/FaceRecognition/build/CMakeFiles/faceRecognition.dir
